@@ -1,5 +1,5 @@
-# **ALX-ENGINEERING-DEVOPS : Shell Basics**
+## **ALX-SOFTWARE-ENGINEERING-DEVOPs**
 
-## **Description**
+### **Description**
 
-hello fellow beginner developer, This is an introductory assignment given by ALXto help master the basics of Shell navigation and to get familiar with the fundamentals to a successful Software engineering career.
+hello fellow beginner developer, This project is a contains series of tasks and mini projects which is a basic requirement for graduation from alx-software engineering program, prepared to make one a world class Software developer. 
